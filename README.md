@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently working with JAVA, Spring, C#, .Net, JavaScript, Laravel, Inertiajs
 - 💞️ I’m looking to collaborate on JAVA, Spring, C#, .Net, JavaScript, Laravel, Inertiajs
-- 📫 How to reach me prashant.upreti30@gmail.com
+- 📫 How to reach me prashantupreti100@gmail.com
 
 <!---
 prashantupreti/prashantupreti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
